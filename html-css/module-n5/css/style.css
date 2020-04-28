@@ -59,7 +59,7 @@ img {
   margin: 0;
   padding: 0;
   border: none;
-  background-image: url(/img/homework-05sliderleft.png);
+  background-image: url(../img/homework-05sliderleft.png);
   background-color: rgba(83, 250, 217, 0.3);
 }
 
@@ -74,7 +74,7 @@ img {
   margin: 0;
   padding: 0;
   border: none;
-  background-image: url(/img/homework-05sliderright.png);
+  background-image: url(../img/homework-05sliderright.png);
   background-color: rgba(83, 250, 217, 0.3);
 }
 
@@ -339,7 +339,7 @@ img {
 .first-button {
   width: 48px;
   height: 48px;
-  background-image: url(/img/1.png);
+  background-image: url(../img/1.png);
   background-color: transparent;
   margin-right: 10px;
 }
@@ -347,7 +347,7 @@ img {
 .second-button {
   width: 48px;
   height: 48px;
-  background-image: url(/img/2.png);
+  background-image: url(../img/2.png);
   margin-right: 10px;
   background-color: transparent;
 }
@@ -355,14 +355,14 @@ img {
 .third-button {
   width: 48px;
   height: 48px;
-  background-image: url(/img/3.png);
+  background-image: url(../img/3.png);
   background-color: transparent;
 }
 
 .fourt-button {
   width: 164px;
   height: 48px;
-  background-image: url(/img/4.png);
+  background-image: url(../img/4.png);
   background-color: rgb(44, 43, 43);
 }
 
