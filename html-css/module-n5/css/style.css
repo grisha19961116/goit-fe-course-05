@@ -342,6 +342,7 @@ img {
   background-image: url(../img/1.png);
   background-color: transparent;
   margin-right: 10px;
+  margin-bottom: 8px;
 }
 
 .second-button {
@@ -349,6 +350,7 @@ img {
   height: 48px;
   background-image: url(../img/2.png);
   margin-right: 10px;
+  margin-bottom: 8px;
   background-color: transparent;
 }
 
@@ -357,6 +359,7 @@ img {
   height: 48px;
   background-image: url(../img/3.png);
   background-color: transparent;
+  margin-bottom: 8px;
 }
 
 .fourt-button {
