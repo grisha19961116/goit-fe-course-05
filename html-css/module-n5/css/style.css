@@ -7,17 +7,8 @@ body {
   margin: 0 auto;
 }
 
-img {
-  display: block;
-  width: 100%;
-}
-
 .slider {
-  width: 1600px;
-  height: 600px;
-  margin: 0 auto;
   padding-bottom: 90px;
-  margin: 0 auto;
   position: relative;
 }
 
@@ -28,7 +19,7 @@ img {
 .div-for-shadow {
   background-color: rgba(0, 0, 2, 0.3);
   width: 100%;
-  height: 600px;
+  height: 100%;
   position: absolute;
   top: 0;
   left: 0;
@@ -87,14 +78,17 @@ img {
   width: 1110px;
   margin: 0;
   position: absolute;
-  top: 32%;
-  left: 15.3%;
+  transform: translateY(-50%);
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .slider-content {
   position: absolute;
-  top: 29%;
-  left: 26.7%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .slider-content-h2 {
@@ -121,13 +115,12 @@ img {
 }
 
 .main-header {
-  width: 1600px;
+  width: 1110px;
   padding: 0;
   margin: 0px auto 54px auto;
 }
 
 .main-nav {
-  width: 1110px;
   margin: 0 auto;
   padding: 0px;
 }
@@ -293,7 +286,6 @@ img {
 }
 
 .footer {
-  width: 1600px;
   height: 88px;
   background-color: #323232;
   margin: 0 auto;
